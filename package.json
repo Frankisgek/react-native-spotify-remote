@@ -81,7 +81,7 @@
       "publish": true
     },
     "github": {
-      "release": true
+      "release": false
     },
     "plugins": {
       "@release-it/keep-a-changelog": {
