@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.3.11-5] - 2022-02-08
+- Update
+
 ## [0.3.11-4] - 2022-02-08
 - Remove maven plugin
 
